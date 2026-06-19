@@ -45,5 +45,5 @@ Automates a real sales reporting workflow — reduces a 2-hour manual process to
 
 ## 📫 Let's Connect
 
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: [linkedin.com/in/美瑾-史-b220a1418]
 - Open to remote opportunities in AI integration, enterprise automation, and AI security
