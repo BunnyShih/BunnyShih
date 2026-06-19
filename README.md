@@ -16,21 +16,21 @@ I work at the intersection of three things most companies need but rarely find i
 
 ## 🚀 Featured Projects
 
-### [Oracle Legacy → AI Analyst](https://github.com/YOUR_USERNAME/oracle-ai-analyst)
+### [Oracle Legacy → AI Analyst](https://github.com/BunnyShih/oracle-ai-analyst)
 Connects a legacy Oracle database to Claude AI through a secure ETL pipeline. Automatically masks PII before any data reaches the AI, then generates bilingual (English/Chinese) executive reports.
 
 `Python` `Oracle` `Claude API` `PII Masking` `Audit Logging`
 
 ---
 
-### [AI Security Sandbox](https://github.com/YOUR_USERNAME/ai-security-sandbox)
+### [AI Security Sandbox](https://github.com/BunnyShih/ai-security-sandbox)
 A 5-layer defense system protecting production AI from prompt injection, jailbreaks, and data exfiltration. Includes a hardened system prompt, rate limiting, and output redaction — tested against 7 real attack scenarios.
 
 `Python` `LLM Security` `Sandbox Design` `Threat Detection`
 
 ---
 
-### [AI-Driven Productivity Pipeline](https://github.com/YOUR_USERNAME/ai-productivity)
+### [AI-Driven Productivity Pipeline](https://github.com/BunnyShih/ai-productivity)
 Automates a real sales reporting workflow — reduces a 2-hour manual process to under 5 seconds (99% time reduction), while auto-fixing data quality issues a human would normally catch by hand.
 
 `Python` `Workflow Automation` `Claude API` `Data Cleaning`
